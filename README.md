@@ -1,5 +1,7 @@
 ## CouchDB Proxy
 
+[![Docker Repository on Quay](https://quay.io/repository/panubo/couchdb-proxy/status "Docker Repository on Quay")](https://quay.io/repository/panubo/couchdb-proxy)
+
 Simply a Nginx reverse proxy for CouchDB. Provides the ability to encrypt communications and use client certificate authentication.
 
 ## Usage
